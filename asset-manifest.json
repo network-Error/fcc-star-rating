@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-star-rating/static/css/main.39a1965d.css",
+    "main.js": "/fcc-star-rating/static/js/main.a0b858c6.js",
+    "static/js/453.87f012c5.chunk.js": "/fcc-star-rating/static/js/453.87f012c5.chunk.js",
+    "index.html": "/fcc-star-rating/index.html",
+    "main.39a1965d.css.map": "/fcc-star-rating/static/css/main.39a1965d.css.map",
+    "main.a0b858c6.js.map": "/fcc-star-rating/static/js/main.a0b858c6.js.map",
+    "453.87f012c5.chunk.js.map": "/fcc-star-rating/static/js/453.87f012c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a1965d.css",
+    "static/js/main.a0b858c6.js"
+  ]
+}
